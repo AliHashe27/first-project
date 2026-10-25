@@ -28,6 +28,18 @@
       "created_at": "2026-10-25T07:20:24.058Z",
       "sender": "macOS",
       "is_cancelled": false
+    },
+    {
+      "id": "28ff3e3b-f5fb-42bc-b06f-4ec7cbb1636b",
+      "role": "user",
+      "content": "4/0AXlqoi7uaxlaDxqBrhrzpZvuN2DdMK2OQ0lSjg3knX9hdk4AZIy8aE4jr0ixG1vqPwVYOQ",
+      "status": "pending",
+      "model": "gemini-3.8-flash-low",
+      "client_type": "gemini-bridge",
+      "parent_message_id": null,
+      "created_at": "2026-10-25T07:23:37.149Z",
+      "sender": "ios",
+      "is_cancelled": false
     }
   ]
 }
